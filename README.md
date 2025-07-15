@@ -27,7 +27,7 @@ This project analyzes a company's sales data using Python libraries like Pandas,
 - Pandas
 - NumPy
 - Matplotlib
-- Seaborn
+
 
 ---
 
